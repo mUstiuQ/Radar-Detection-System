@@ -19,6 +19,23 @@ Processing (for visualization)
 Ultrasonic sensor (HC-SR04)
 Servo motor MG90S (for movement)
 
+### 📌 About the Project
+This project is a radar system designed using an ultrasonic sensor, servo motor, and microcontroller to detect objects, measure their distance, and visualize the data in real time.
+The system simulates how actual radar technology works by continuously scanning its surroundings and displaying the results graphically.
+
+#Key Features
+
+✅ Object Detection & Distance Measurement – Uses an ultrasonic sensor to detect objects and calculate their distance accurately.
+
+✅ Real-Time Scanning – The servo motor rotates the sensor to scan the environment, mimicking a real radar system.
+
+✅ Graphical Visualization – Data is displayed in a radar-like interface, providing a clear view of detected objects.
+
+✅ Adjustable Range – Users can modify the scanning angle and detection range to fit different environments.
+
+✅ Compact & Cost-Effective – Designed to be an affordable, educational tool for learning about radar systems and embedded programming.
+
+
 ### 🛠️ Components Used
 
 ✅ 1x Arduino UNO
