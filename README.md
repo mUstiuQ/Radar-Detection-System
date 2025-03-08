@@ -23,7 +23,7 @@ Servo motor MG90S (for movement)
 This project is a radar system designed using an ultrasonic sensor, servo motor, and microcontroller to detect objects, measure their distance, and visualize the data in real time.
 The system simulates how actual radar technology works by continuously scanning its surroundings and displaying the results graphically.
 
-# Key Features
+#### Key Features
 
 ✅ Object Detection & Distance Measurement – Uses an ultrasonic sensor to detect objects and calculate their distance accurately.
 
