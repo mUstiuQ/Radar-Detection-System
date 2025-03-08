@@ -30,7 +30,7 @@ Servo motor MG90S (for movement)
 ![Image Description](circuit_diagram.png)
 
 ### 📜 View Full Schematic
-[View Full Schematic](![schematic_circuit](https://github.com/user-attachments/assets/94e892bd-d014-45ac-af39-a17adeae3953))
+[View Full Schematic](schematic_circuit.png)
 
 ### ⚙️ Installation & Setup
 1️⃣ Install Arduino IDE from here
@@ -47,7 +47,7 @@ Servo motor MG90S (for movement)
 ### 📷 Demo & Images
 
 [Watch Full Demo](https://youtube.com/shorts/39jKKc9EM-A?si=kU4zIgdn9sroy9mW)
-[Images](![imagine_rl](https://github.com/user-attachments/assets/55c50084-e7ce-4b4e-bfb3-e9421975afc2))
+[Images](imagine_el.JPEG)
 
 
 ### 📝 License
