@@ -27,7 +27,7 @@ Servo motor MG90S (for movement)
 ✅ Breadboard & Jumper Wires
 
 ### 🔧 Circuit Diagram
-![Image Description](images/circuit_diagram.png)
+![Image Description](circuit_diagram.png)
 
 ### 📜 View Full Schematic
 [View Full Schematic](![schematic_circuit](https://github.com/user-attachments/assets/94e892bd-d014-45ac-af39-a17adeae3953))
