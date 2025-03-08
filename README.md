@@ -26,8 +26,10 @@ Ultrasonic sensor (HC-SR04)
 ✅ Breadboard & Jumper Wires
 
 ### 🔧 Circuit Diagram
+![Image Description](images/circuit.png)
 
 ### 📜 View Full Schematic
+[View Full Schematic](schematic.pdf)
 
 ### ⚙️ Installation & Setup
 1️⃣ Install Arduino IDE from here
@@ -43,13 +45,13 @@ Ultrasonic sensor (HC-SR04)
 
 ### 📷 Demo & Images
 
-🔹 Watch Full Demo
+[Watch Full Demo](https://youtu.be/demo-link)
 
 ### 📝 License
 This project is open-source and licensed under the MIT License.
 
 ### 📌 Contributors:
-👤 Your Name
+👤 FODOKA DAVID-ANDREI
 
 🔹 Feel free to fork, modify, and improve this project! 🚀
 
