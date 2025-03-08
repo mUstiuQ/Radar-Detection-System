@@ -1,4 +1,8 @@
 # Radar-Detection-System
+![](https://img.shields.io/badge/C++-FFDD33)
+![.](https://img.shields.io/badge/ArduinoIDE-884DA7)
+![.](https://img.shields.io/badge/Processing-9C9)
+
 
 A smart radar system using ultrasonic sensors and servo motors.
 
