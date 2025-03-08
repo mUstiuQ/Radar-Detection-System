@@ -62,9 +62,9 @@ The system simulates how actual radar technology works by continuously scanning 
 
 2️⃣ Connect the components as shown in the circuit diagram
 
-3️⃣ Upload the [(arduino_code)] code to Arduino
+3️⃣ Upload the arduino_code code to Arduino
 
-4️⃣ Run the Processing script for visualization from [(preocessing_code)] 
+4️⃣ Run the Processing script for visualization from preocessing_code
 
 ### 🚀 How It Works
 🔹 The ultrasonic sensor sends pulses and measures distances.
