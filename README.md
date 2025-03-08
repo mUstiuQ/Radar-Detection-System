@@ -47,7 +47,7 @@ Servo motor MG90S (for movement)
 ### 📷 Demo & Images
 
 [Watch Full Demo](https://youtube.com/shorts/39jKKc9EM-A?si=kU4zIgdn9sroy9mW)
-[Images](imagine_el.JPEG)
+[Images](imagine_rl.JPEG)
 
 
 ### 📝 License
