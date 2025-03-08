@@ -25,9 +25,7 @@ Servo motor MG90S (for movement)
 
 ✅ 1x HC-SR04 Ultrasonic Sensor
 
-✅ 1x SG90 Servo Motor
-
-✅ 1x OLED/LED Display (Optional)
+✅ 1x MG90S Servo Motor
 
 ✅ Breadboard & Jumper Wires
 
@@ -39,13 +37,13 @@ Servo motor MG90S (for movement)
 
 ### ⚙️ Installation & Setup
 
-1️⃣ Install Arduino IDE from here
+1️⃣ Install Arduino IDE
 
 2️⃣ Connect the components as shown in the circuit diagram
 
-3️⃣ Upload the Radar.ino code to Arduino
+3️⃣ Upload the [(arduino_code)] code to Arduino
 
-4️⃣ Run the Processing script for visualization (if applicable)
+4️⃣ Run the Processing script for visualization from [(preocessing_code)] 
 
 ### 🚀 How It Works
 🔹 The ultrasonic sensor sends pulses and measures distances.
